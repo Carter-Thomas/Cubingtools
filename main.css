@@ -59,8 +59,3 @@ header{
   grid-column-start: 1;
   grid-column-end: 5;
 }
-.landing-item > img{
-  object-fit:cover;
-  width: 20%;
-  max-height: 20%;
-}
