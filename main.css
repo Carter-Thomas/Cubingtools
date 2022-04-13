@@ -17,7 +17,7 @@ ul{
   background: #666666;
   color:white;
   padding: 10px;
-  
+
 }
 
 .title{
@@ -40,4 +40,8 @@ ul{
   text-align: center;
   background: #666666;
   padding: 15px;
+}
+
+img {
+  border:5px solid black;
 }
