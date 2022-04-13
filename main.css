@@ -60,7 +60,7 @@ header{
   grid-column-end: 5;
 }
 .landing-item > img{
-  object-fit:contain;
+  object-fit:cover;
   width: 20%;
   max-height: 20%;
 }
