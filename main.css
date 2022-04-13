@@ -44,4 +44,9 @@ ul{
 
 img {
   border:5px solid black;
+  background: black;
+}
+
+figcaption {
+  background: 5px solid black;
 }
