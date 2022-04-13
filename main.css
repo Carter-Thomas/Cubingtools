@@ -50,6 +50,10 @@ ul{
   box-sizing: border-box;
 }
 body{
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+header{
   grid-column-start: 1;
   grid-column-end: 5;
 }
