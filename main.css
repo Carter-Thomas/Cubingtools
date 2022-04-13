@@ -39,23 +39,3 @@ ul{
   background: #666666;
   padding: 15px;
 }
-.page{
-  width: 100vw;
-  height: 100vh;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: 50px 1fr 1fr;
-  gap: 10px;
-  padding: 10px;
-  box-sizing: border-box;
-}
-body{
-  grid-row-start: 1;
-  grid-row-end: 2;
-  grid-column-start: 1;
-  grid-column-end: 5;
-}
-header{
-  grid-column-start: 1;
-  grid-column-end: 5;
-}
