@@ -39,7 +39,7 @@ ul{
   background: #666666;
   padding: 15px;
 }
-#page{
+.page{
   width: 100vw;
   height: 100vh;
   display: grid;
@@ -58,4 +58,9 @@ body{
 header{
   grid-column-start: 1;
   grid-column-end: 5;
+}
+.landing-item > img{
+  object-fit:contain;
+  width: 20%;
+  max-height: 20%;
 }
