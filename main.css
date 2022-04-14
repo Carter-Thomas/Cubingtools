@@ -47,10 +47,6 @@ img {
   background: #000000;
 }
 
-figcaption {
-  background: #E6DDB3;
-}
-
 figcaption:after{
   position:absolute;
   bottom:0;
