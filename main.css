@@ -53,12 +53,6 @@ figcaption:after{
   left:0;
   width:50%;
 }
-ficaption:before{
-  position:absolute;
-  bottom:0;
-  left:0;
-  width:50%;
-}
 h3{
   text-align: center;
 }
