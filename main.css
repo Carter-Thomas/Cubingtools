@@ -7,6 +7,10 @@ h1{
   color:black;
   text-align: center;
   background-color: #666666;
+  width: 200px;
+  border: 15px solid black;
+  padding: 20px;
+  margin: 10px;
 }
 
 a{
