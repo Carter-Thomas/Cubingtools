@@ -25,10 +25,6 @@ ul{
   padding: 15px;
 }
 
-#landing{
-  text-align:left;
-}
-
 #container{
   text-align: center;
   background: #666666;
@@ -66,5 +62,4 @@ h2{
   border: 15px solid black;
   padding: 20px;
   margin: auto;
-  text-align: center;
 }
