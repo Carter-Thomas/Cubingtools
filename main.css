@@ -57,3 +57,7 @@ h2{
   padding: 20px;
   margin: auto;
 }
+
+.landing-item-container{
+  border-radius: 15px;
+}
