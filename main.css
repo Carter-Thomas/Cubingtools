@@ -33,7 +33,7 @@ ul{
 }
 
 img {
-  border: 10px solid #000000;
+  border: 10px solid #1C3738;
   background: #E9E3E6;
   border-radius: 15px;
 }
@@ -54,7 +54,7 @@ h2{
 
 .borderedtitles{
   width: 40%;
-  border: 15px dotted #E9E3E6;
+  border: 15px dotted #1C3738;
   padding: 20px;
   margin: auto;
   background-color: #E9E3E6;
