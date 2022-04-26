@@ -10,7 +10,7 @@ h1{
 }
 
 a{
-  color:black;
+  color:#E9E3E6;
 }
 
 ul{
@@ -54,7 +54,9 @@ h2{
 
 .borderedtitles{
   width: 40%;
-  border: 15px solid black;
+  border: 15px dotted #E9E3E6;
   padding: 20px;
   margin: auto;
+  background-color: #E9E3E6;
+  border-radius: 15px;
 }
