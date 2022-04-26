@@ -1,5 +1,5 @@
 body{
-  background: #e9e3e6;;
+  background: #6a8d92;;
   font-family:arial;
 }
 
@@ -35,6 +35,7 @@ ul{
 img {
   border: 10px solid #000000;
   background: #E9E3E6;
+  border-radius: 15px;
 }
 
 figcaption:after{
@@ -56,8 +57,4 @@ h2{
   border: 15px solid black;
   padding: 20px;
   margin: auto;
-}
-
-img {
-  border-radius: 15px;
 }
